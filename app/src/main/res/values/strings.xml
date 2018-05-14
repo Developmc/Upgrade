@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TokenPocketUpgrader</string>
+    <string name="update_confirm_msg_ex">是否同意更新？约%1$s M流量</string>
+    <string name="confirm">同意</string>
+    <string name="cancel">取消</string>
+    <string name="data_network">数据网络</string>
+    <string name="update_confirm_title">提示</string>
+</resources>
